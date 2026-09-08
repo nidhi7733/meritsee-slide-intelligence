@@ -31,7 +31,7 @@
 ## ३. स्थापना गर्ने तरिका (Installation Steps)
 
 1. **इन्स्टलर डाउनलोड गर्नुहोस्:**
-   - सार्वजनिक वितरण लिङ्क वा GitHub Release बाट `MeritSee-Slide-Intelligence-Setup-2.3.0.exe` डाउनलोड गर्नुहोस्।
+   - सार्वजनिक वितरण लिङ्क वा GitHub Release बाट `MeritSee-Slide-Intelligence-Setup-1.0.0.exe` डाउनलोड गर्नुहोस्।
 2. **इन्स्टलर चलाउनुहोस्:**
    - डाउनलोड भएको `.exe` फाइलमा डबल क्लिक गर्नुहोस्।
    - *यदि Windows SmartScreen ले चेतावनी देखाएमा:* **"More info"** मा क्लिक गरी **"Run anyway"** छान्नुहोस्।
